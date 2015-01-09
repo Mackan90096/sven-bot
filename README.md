@@ -4,14 +4,14 @@
 | Command | Does |
 |---------|------|
 $help     | Shows help
-$rainbow <message> | Shows a message in rainbow text
+$rainbow &lt;message&gt; | Shows a message in rainbow text
 $reg | Registers a user
 $uniq | Gives a random UUID
 $weed | Smoke it everyday!
 $factorio | Try it!
-$short <url> | Shorthens urls!
-$yoda <text> | Returns a response from Yoda.
-$btc <amt> <cur> | Converts <amt> btc to <cur>
+$short &lt;url&gt; | Shorthens urls!
+$yoda &lt;text&gt; | Returns a response from Yoda.
+$btc &lt;amt&gt; &lt;cur&gt; | Converts &lt;amt> btc to &lt;cur&gt;
 $rmsg | Returns a random message.
-$define <term> | Looks up <term> in the Urban Dictionary
+$define &lt;term&gt; | Looks up &lt;term&gt; in the Urban Dictionary
 $illuminati | Illuminati.
