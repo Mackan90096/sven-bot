@@ -1,5 +1,9 @@
 # Help for Sven
 
+
+# If Sven isn't responding, it might be because he is down.
+Current status: **DOWN** *10/1-2014 00:13 GMT+1*
+
 # Commands:
 | Command | Does | Userlevel |
 |---------|------|-----------|
