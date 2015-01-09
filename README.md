@@ -15,7 +15,7 @@ $btc &lt;amt&gt; &lt;cur&gt; | Converts &lt;amt> btc to &lt;cur&gt; | Basic |
 $rmsg | Returns a random message. | Basic |
 $define &lt;term&gt; | Looks up &lt;term&gt; in the Urban Dictionary | Basic |
 $illuminati | Illuminati. | Basic |
-$throw &lt;usr&gt; | Throws an object at &lt;usr&gt; |
+$throw &lt;usr&gt; | Throws an object at &lt;usr&gt; | Basic |
 $disable &lt;cmd&gt; | Disables &lt;cmd&gt; | Admin |
 $STFU | Tell Sven to STFU | Admin |
 sven pls | Used when bot is fucking up | Admin |
