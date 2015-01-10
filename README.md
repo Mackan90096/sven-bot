@@ -2,7 +2,9 @@
 
 
 # If Sven isn't responding, it might be because he is down.
-Current status: **DOWN** *10/1-2014 00:13 GMT+1*
+Current status: **UP** *11/1-2015 12:28 GMT+1*
+Server: irc.freenode.net
+Channel: ##mack
 
 # Commands:
 | Command | Does | Userlevel |
