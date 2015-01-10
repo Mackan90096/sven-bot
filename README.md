@@ -29,7 +29,7 @@ $msg &lt;usr&gt; &lt;msg&gt; | Send a message with the text &lt;msg&gt; to &lt;u
 $kick &lt;usr&gt; | Kicks &lt;usr&gt; from channel | Admin |
 $csay &lt;chan&gt; &lt;msg&gt; | Says &lt;msg&gt; in &lt;chan&gt; | Admin |
 &addusr &lt;usr&gt; | Adds &lt;usr&gt; to the economy system | Admin |
-$addgold &lt;amt&gt; | &lt;usr&gt; | Gives &lt;usr&gt; &lt;amt&gt; gold | Admin
+$addgold &lt;amt&gt; &lt;usr&gt; | Gives &lt;usr&gt; &lt;amt&gt; gold | Admin
 $join &lt;chan&gt; | Joins &lt;chan&gt; | Admin |
 $part &lt;chan&gt; | Parts from &lt;chan&gt; | Admin |
 $reload | Sends Reload notice | Admin |
